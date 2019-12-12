@@ -1,0 +1,94 @@
+footer {
+  padding: 1px 20px;
+
+  text-align: center;
+  color: #fff;
+}
+
+
+footer #groups {
+  position: relative;
+  box-sizing: border-box;
+
+  height: 100px;
+}
+
+
+footer #copyright {
+  position: absolute;
+  left: 120px;
+  right: 120px;
+  bottom: 10px;
+
+  font-size: 0.8em;
+  color: #ccc;
+}
+
+footer #copyright a {
+  text-decoration: none;
+  color: inherit;
+  font-style: italic;
+}
+
+
+/* FOUNDERS
+**********************************************************/
+
+.founder {
+  display: inline-block;
+  margin: 10pt 20pt;
+  padding: 0;
+}
+
+.founder .picture {
+  position: relative;
+  width: 128px;
+  height: 128px;
+
+  box-sizing: border-box;
+  border: 2px solid #fff;
+  border-radius: 50%;
+
+  background-size: cover;
+  background-color: #ddd;
+  background-position: center;
+  
+  overflow: hidden;
+  
+  box-shadow: 0 0 10px rgba(0,0,0,0.25);
+  transform: translateZ(0px);
+}
+
+.founder .twitter {
+  position: absolute;
+  
+  margin-top: -30px;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  
+  background-color: rgba(0, 172, 237, 1);
+  background-image: url(../img/twitter.svg);
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position: 50% 5px;
+  
+  transition: all 0.25s linear;
+}
+
+.founder:hover .twitter {
+  top: 0%;
+  margin-top: 0px;
+  background-color: rgba(0, 172, 237, 0.5);
+  background-position: 50% 50%;
+  background-size: 32px;
+}
+
+.founder .name {
+  margin: 10pt;
+  font-weight: 600;
+  font-size: 0.9em;
+}
+

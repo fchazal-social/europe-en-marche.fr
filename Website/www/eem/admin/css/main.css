@@ -1,0 +1,176 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+  height: 100%;
+}
+
+body {
+  min-height: 100%; 
+
+  background-color: #fff;
+  font-size: 11pt;
+  font-family: 'Nunito Sans', 'Rubik', 'Lato', 'Roboto', 'Open Sans', sans-serif;
+}
+
+#main {
+  overflow: hidden;
+  position: relative;
+  background-color: #444;
+
+  max-width: 800px;
+  min-height: 100%;
+
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  
+  transition: max-width 1s linear;
+}
+
+button {
+  cursor: pointer;
+}
+
+header, section, footer {
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+section {
+  background: #fff;
+}
+
+section, footer {
+  position: relative;
+}
+
+section::before,
+footer::before {
+  content: '';
+  position: absolute;
+
+  left: 0;
+  width: 100%;
+  
+  background-repeat: no-repeat;
+  
+  box-sizing: border-box;
+}
+
+header::before {
+  background-image: url('../img/arrow-header.svg');
+}
+
+section::before {
+  top: -75px;
+  height: 75px;
+  background-size: 100% 75px;
+  background-image: url('../img/arrow-section.svg');
+}
+
+footer::before {
+  top: -50px;
+  height: 50px;
+  background-size: 100% 50px;
+  background-image: url('../img/arrow-footer.svg');
+}
+
+footer {
+  bottom: 0;
+  
+  background-color: #444;
+  width: 100%;
+}
+
+
+button {
+  display: inline-block;
+
+  margin: 9pt;
+  padding: 3pt 9pt;
+
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 0.8em;
+  color: #fff;
+  text-transform: uppercase;
+
+  border-radius: 100pt;
+  border: none;
+
+  background: #003377;
+}
+
+input, textarea {
+  display: block;
+  border: 0;
+  padding: 2pt;
+  margin: 2pt;
+  border-bottom: 1pt solid rgba(0, 51, 119, 0.25);
+  background: transparent;
+  width: 100%;
+  color: #037;
+  box-sizing: border-box;
+}
+
+
+/* SIGNERS SECTIONS - WRITERS / SPONSORS / PEOPLE
+**********************************************************/
+body {
+  text-align: center;
+}
+
+.signer {
+  display: inline-block;
+  text-align: center;
+  margin: 5pt;
+
+}
+
+.signer .picture {
+  overflow: hidden;
+  margin: 5pt auto;
+
+  background-color: #eee;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  transition: all 0.2s linear;
+}
+
+.signer:hover .picture {
+  background-color: #fff;
+
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  transform: scale(1.1);
+}
+
+.signer .name {
+  font-weight: 600;
+}
+
+.signer .role {
+  overflow: hidden;
+
+  height: 3em;
+  
+  font-size: 0.7em;
+  font-style: italic;
+}
+
+/* SPONSORS ****************/
+
+#sponsors i {
+  font-size: 0.7em;
+  color: #888;
+}
+#sponsors .signer {
+  width: 160px;
+}
+
+#sponsors .signer .picture {
+  width: 64px;
+  height: 64px;
+  border-radius: 32px;
+}

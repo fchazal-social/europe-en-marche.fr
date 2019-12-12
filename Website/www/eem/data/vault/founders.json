@@ -1,0 +1,34 @@
+[
+  {
+    "firstname":  "Charlotte",
+    "lastname":   "Marelli",
+    "twitter":    "https://twitter.com/Charlie_Mrll",
+    "email":      "charlotte@europe-en-marche.fr",
+    "picture":    "/data/founders/charlotte.jpg",
+    "signature":  "/data/founders/charlotte_signature.png"
+  },
+  {
+    "firstname":  "Marianne",
+    "lastname":   "Escurat",
+    "twitter":    "https://twitter.com/E_Gouvernance",
+    "email":      "marianne@europe-en-marche.fr",
+    "picture":    "/data/founders/marianne.jpg",
+    "signature":  "/data/founders/marianne_signature.png"
+  },
+  {
+    "firstname":  "Guillaume",
+    "lastname":   "Auffret",
+    "twitter":    "https://twitter.com/GAuffret",
+    "email":      "guillaume@europe-en-marche.fr",
+    "picture":    "/data/founders/guillaume.jpg",
+    "signature":  "/data/founders/guillaume_signature.png"
+  },
+  {
+    "firstname":  "François",
+    "lastname":   "Chazal",
+    "twitter":    "https://twitter.com/francoischazal",
+    "email":      "francois@europe-en-marche.fr",
+    "picture":    "/data/founders/francois.jpg",
+    "signature":  "/data/founders/francois_signature.png"
+  }
+]

@@ -1,0 +1,317 @@
+#signature {
+  visibility: hidden;
+  overflow: hidden;
+  opacity: 0;
+  
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  background-color: rgba(0,0,0,0.2);
+  transition: all 0.5s linear;
+}
+
+#signature.visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* SIGNATURE – CONTAINER
+**********************************************************/
+
+#signature>.container {
+  overflow: hidden;
+  position: absolute;
+  
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 500px;
+  
+  background-color: #fcfcfc;
+  border-radius: 10px;
+
+  box-shadow: 0 0 100pt rgba(0,0,0,0.5);
+
+  max-width: 800px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+#signature>.container::after {
+  content: '';
+  opacity: 0.25;
+  
+  position: absolute;
+  top: 66%;
+  left: 0;
+  width: 100%;
+  
+  border-top: 1px dashed red;
+}
+
+#signature #quit {
+  position: absolute;
+  cursor: pointer;
+  z-index: 10;
+
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  padding: 5pt 10pt;
+
+  text-align: center;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: #444;
+}
+
+
+/* SIGNATURE – CANVAS PAD
+**********************************************************/
+
+#signature canvas {
+  display: block;
+  
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  border: none;
+  cursor: url('../img/signature_pen.png') 2 2, auto;
+}
+
+
+/* SIGNATURE – CONFIRMATION FORM
+**********************************************************/
+
+#forms {
+  position: absolute;
+  z-index: 1;
+  
+  visibility: hidden;
+  opacity: 0;
+
+  width: 100%;
+  height: 100%;
+
+  background: rgba(255,255,255,0.9);
+  transition: all 0.5s linear;
+}
+
+#forms.visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+#forms>.container {
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+  margin-left: 0%;
+
+  transition: all 0.5s linear;
+}
+#forms.share>.container { margin-left: -100%; }
+#forms.subscribe>.container { margin-left: -200%; }
+
+#forms form {
+  box-sizing: border-box;
+  position: absolute;
+
+  top: 0;
+  width: 100%;
+  height: 100%;
+
+  padding: 15pt;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+#forms form#send {
+  left: 0%;
+}
+#forms form#share {
+  left: 100%;
+}
+#forms form#subscribe {
+  left: 200%;
+}
+ 
+
+
+
+
+
+#forms input,
+#forms select {
+  -webkit-appearance: none;
+
+  box-sizing: border-box;
+
+  width: 100%;
+  padding: 5pt 10pt;
+  margin: 10pt 0 0;
+  max-width: 400px;
+
+  font-family: inherit;
+  font-size: 1.3em;
+  color: #037;
+
+  border: solid #037;
+  border-radius: 0;
+  border-width: 0 0 2px 0;
+  
+  background: transparent;
+}
+
+#forms input.invalid,
+#forms select.invalid {
+  border-color: #c00;
+}
+
+
+
+#forms button {
+  overflow: hidden;
+  outline: none;
+
+  padding: 10pt 15pt;
+  margin: 10pt 0 0;
+  
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 1em;
+  color: #037;
+
+  border: 2pt solid #037;
+  border-radius: 2em;
+
+  background: rgba(255,255,255,0.75);
+  
+  transition: all 0.2s linear;
+}
+
+#forms button:hover {
+  box-shadow: 0 0 5px #037;
+}
+
+#forms button:active {
+  color: #fff;
+  border-color: #fff;
+  background: #037;
+  box-shadow: 0 0 50px #037;
+}
+
+#forms button.grey {
+  border-color: #888;
+  color: #888;
+}
+
+#forms button.grey:active {
+  color: #fff;
+  border-color: #fff;
+  background: #888;
+  box-shadow: 0 0 50px #888;
+}
+
+
+#forms button.small {
+  font-size: 0.8em;
+  padding: 0.5em 1em;
+}
+
+#forms button.share {
+  padding-top: 30pt;
+  
+  font-size: 0.8em;
+  width: 45%;
+  max-width: 200px;
+  
+  margin: 10pt 0;
+  border: none;
+  border-radius: 5px;
+  
+  color: #fff;
+  
+  background-size: 20pt;
+  background-repeat: no-repeat;
+  background-position: center 5pt;
+}
+
+#forms button.share.twitter {
+  background-color: #00aced;
+  background-image: url(../img/twitter.svg);
+}
+
+#forms button.share.facebook {
+  background-color: #3b5998;
+  background-image: url(../img/facebook.svg);
+}
+
+#forms .give {
+  padding: 5pt 15pt;
+  font-size: 1em;
+  
+  color: #fff;
+  border: none;
+  background: #003377;
+  text-decoration: none;
+  font-weight: 600;
+  
+  border-radius: 15pt;
+}
+
+
+#forms form#send .preview {
+  width: 128px;
+  height: 80px;
+
+  margin: 5pt auto;
+
+  border-radius: 5px;
+
+  background-color: #eee;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+#forms div {
+  text-align: center;
+}
+
+
+
+
+#forms .loading {
+  visibility: hidden;
+  position: absolute;
+  opacity: 0;
+
+  width: 100%;
+  height: 100%;
+  margin-left: 0%;
+  
+  background-size: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(255,255,255,0.7);
+  background-image: url(../img/spinner.svg);
+
+  transition: all 0.5s linear;
+}
+
+#forms.wait .loading {
+  visibility: visible;
+  opacity: 1;
+}

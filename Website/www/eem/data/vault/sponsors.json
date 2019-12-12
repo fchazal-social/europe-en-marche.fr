@@ -1,0 +1,205 @@
+[
+    {
+        "firstname": "Yves",
+        "lastname": "Bertoncini",
+        "role": "Président du Mouvement européen - France",
+        "twitter": "",
+        "picture": "/data/sponsors/yves_bertoncini.jpg"
+    },
+    {
+        "firstname": "Alyn",
+        "lastname": "Smith",
+        "role": "Député européen<br>SNP (Scottish National Party)",
+        "twitter": "AlynSmithMEP",
+        "picture": "/data/sponsors/alyn_smith.jpg"
+    },
+    {
+        "firstname": "Sebastian",
+        "lastname": "Burduja",
+        "role": "Président de P.A.C.T (Roumanie)",
+        "twitter": "https://twitter.com/Tianu",
+        "picture": "/data/sponsors/sebastian_burduja.jpg"
+    },
+    {
+        "firstname": "Antoine",
+        "lastname": "Carette",
+        "role": "Président des Jeunes démocrates européens (YDE)",
+        "twitter": "https://twitter.com/antoine_k",
+        "picture": "/data/sponsors/antoine_carette.jpg"
+    },
+    {
+        "firstname": "Angelika",
+        "lastname": "Mlinar",
+        "role": "Vice-présidente du parti Alliance des Démocrates et Libéraux Européens (ADLE)",
+        "twitter": "",
+        "picture": "/data/sponsors/angelika_mlinar.jpg"
+    },
+    {
+        "firstname": "Sigrid",
+        "lastname": "F. Proschowsky",
+        "role": "International Secretary of Radikal Ungdom",
+        "twitter": "https://twitter.com/Sigridfriis",
+        "picture": "/data/sponsors/sigrid_friis%20proschowsky.jpg"
+    },
+    {
+        "firstname": "Victor",
+        "lastname": "Boysen",
+        "role": "President of Radikal Ungdom",
+        "twitter": "https://twitter.com/VBoysen",
+        "picture": "/data/sponsors/victor_boysen.jpg"
+    },
+    {
+        "firstname": "Corinne",
+        "lastname": "Lepage",
+        "role": "Députée européenne 2009-2014",
+        "twitter": "https://twitter.com/corinnelepage",
+        "picture": "/data/sponsors/corinne_lepage.jpg"
+    },
+    {
+        "firstname": "Sissel",
+        "lastname": "Kvist",
+        "role": "President of European Liberal Youth",
+        "twitter": "https://twitter.com/sissel_kvist",
+        "picture": "/data/sponsors/sissel_kvist.jpg"
+    },
+    {
+        "firstname": "Daniel",
+        "lastname": "Cohn Bendit",
+        "role": "Député européen de 1994 à 2014",
+        "twitter": "https://twitter.com/danycohnbendit",
+        "picture": "/data/sponsors/daniel_cohn%20bendit.jpg"
+    },
+    {
+        "firstname": "Cédric",
+        "lastname": "Villani",
+        "role": "Mathématicien français<br>Médaille Fields 2010",
+        "twitter": "https://twitter.com/Cedric_Villani",
+        "picture": "/data/sponsors/czdric_villani.jpg"
+    },
+    {
+        "firstname": "Martine",
+        "lastname": "Méheut",
+        "role": "Philosophe",
+        "twitter": "",
+        "picture": "/data/sponsors/martine_meheut.jpg"
+    },
+    {
+        "firstname": "Nico",
+        "lastname": "Hajrahmatollahi",
+        "role": "Ambassadeur de #FreeInterrail",
+        "twitter": "https://twitter.com/nicohatschi",
+        "picture": "/data/sponsors/nico_hajrahmatollahi.jpg"
+    },
+    {
+        "firstname": "Stefan",
+        "lastname": "Windberger",
+        "role": "International Officer for NEOS",
+        "twitter": "https://www.twitter.com/PopArtPolitics",
+        "picture": "/data/sponsors/stefan_windberger.jpg"
+    },
+    {
+        "firstname": "Nils ",
+        "lastname": "Torvalds",
+        "role": "Eurodéputé en exercice",
+        "twitter": "https://twitter.com/NilsTorvalds",
+        "picture": "/data/sponsors/nils_torvalds.jpg"
+    },
+    {
+        "firstname": "Pietro",
+        "lastname": "de Matteis",
+        "role": "Vice-Président de Stand Up For Europe",
+        "twitter": "https://twitter.com/PietroDeMatteis",
+        "picture": "/data/sponsors/pietro_de_matteis.jpg"
+    },
+    {
+        "firstname": "Beatriz",
+        "lastname": "Becerra",
+        "role": "Eurodéputée en exercice",
+        "twitter": "https://twitter.com/beatrizbecerrab",
+        "picture": "/data/sponsors/beatriz_becerra.jpg"
+    },
+    {
+        "firstname": "Vincent",
+        "lastname": "Dupire",
+        "role": "Journaliste ",
+        "twitter": "https://twitter.com/vincentdupire",
+        "picture": "/data/sponsors/vincent_dupire.jpg"
+    },
+    {
+        "firstname": "Jo",
+        "lastname": "Leinen",
+        "role": "Président du Mouvement européen - International",
+        "twitter": "https://twitter.com/jo_leinen",
+        "picture": "/data/sponsors/jo_leinen.jpg"
+    },
+    {
+        "firstname": "Sylvie",
+        "lastname": "Goulard",
+        "role": "Députée européenne en exercice",
+        "twitter": "https://twitter.com/GoulardSylvie",
+        "picture": "/data/sponsors/sylvie_goulard.jpg"
+    },
+    {
+        "firstname": "Noëlle",
+        "lastname": "Lenoir",
+        "role": "Ministre chargée des Affaires européennes de 2002 à 2004",
+        "twitter": "https://twitter.com/noellelenoir",
+        "picture": "/data/sponsors/noelle_lenoir.jpg"
+    },
+    {
+        "firstname": "Enrico",
+        "lastname": "Letta",
+        "role": "Président du Conseil italien de 2013 à 2014",
+        "twitter": "https://twitter.com/EnricoLetta",
+        "picture": "/data/sponsors/enrico_letta.jpg"
+    },
+    {
+        "firstname": "Jean-Marie",
+        "lastname": "Cavada",
+        "role": "Député européen en exercice",
+        "twitter": "https://twitter.com/JeanMarieCAVADA",
+        "picture": "/data/sponsors/jeanmarie_cavada.jpg"
+    },
+    {
+        "firstname": "Charlie",
+        "lastname": "Kingsbury",
+        "role": "Président des Young Liberals UK",
+        "twitter": "https://twitter.com/CCKingsbury",
+        "picture": "/data/sponsors/charlie_kingsbury.jpg"
+    },
+    {
+        "firstname": "Loic",
+        "lastname": "Armand",
+        "role": "Entrepeneur européen engagé",
+        "twitter": "",
+        "picture": "/data/sponsors/loic_armand.jpg"
+    },
+    {
+        "firstname": "Andrew",
+        "lastname": "Martin",
+        "role": "International Officer for Young Liberals",
+        "twitter": "https://twitter.com/Andrew4BW",
+        "picture": "/data/sponsors/andrew_martin.jpg"
+    },
+    {
+        "firstname": "Cécilia",
+        "lastname": "Wikstrom",
+        "role": "Député européenne en exercice",
+        "twitter": "https://twitter.com/CeciliaWikstrom",
+        "picture": "/data/sponsors/cecilia_wikstrom.jpg"
+    },
+    {
+        "firstname": "Hannah",
+        "lastname": "Bettsworth",
+        "role": "Young Liberals' Co-international Officer",
+        "twitter": "https://twitter.com/H_Bettsworth",
+        "picture": "/data/sponsors/hannah_bettsworth.jpg"
+    },
+    {
+        "firstname": "Paal",
+        "lastname": "Frisvold",
+        "role": "Président du Mouvement européen - Norvège",
+        "twitter": "https://twitter.com/paalfrisvold",
+        "picture": "/data/sponsors/paal_frisvold.jpg"
+    }
+]
