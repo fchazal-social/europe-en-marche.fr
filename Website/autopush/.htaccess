@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} !update.php
+RewriteCond %{REQUEST_URI} !initialize.php
+RewriteCond %{REQUEST_URI} !terminal.php
+RewriteCond %{REQUEST_URI} !git
+RewriteRule (.*) /git/$1

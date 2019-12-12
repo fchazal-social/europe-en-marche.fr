@@ -16,95 +16,77 @@
 
   <!-- Search Engine -->
   <meta name="description" content="Avec Emmanuel Macron, relançons la dynamique européenne !">
-  <meta name="image" content="http://www.europe-en-marche.fr/data/social/opengraph.jpg">
+  <meta name="image" content="http://www.europe-en-marche.fr/images/social/opengraph.jpg">
 
   <!-- Schema.org for Google -->
   <meta itemprop="name" content="Europe en Marche">
   <meta itemprop="description" content="Avec Emmanuel Macron, relançons la dynamique européenne !">
-  <meta itemprop="image" content="http://www.europe-en-marche.fr/data/social/opengraph.jpg">
+  <meta itemprop="image" content="http://www.europe-en-marche.fr/images/social/opengraph.jpg">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Europe en Marche">
   <meta name="twitter:description" content="Avec Emmanuel Macron, relançons la dynamique européenne !">
   <meta name="twitter:creator" content="@EuropeEnMarche">
-  <meta name="twitter:image:src" content="http://www.europe-en-marche.fr/data/social/twitter.jpg">
+  <meta name="twitter:image:src" content="http://www.europe-en-marche.fr/images/social/twitter.jpg">
 
   <!-- Open Graph general (Facebook, Pinterest & Google+) -->
   <meta name="og:title" content="Europe en Marche">
   <meta name="og:description" content="Avec Emmanuel Macron, relançons la dynamique européenne !">
-  <meta name="og:image" content="http://www.europe-en-marche.fr/data/social/opengraph.jpg">
+  <meta name="og:image" content="http://www.europe-en-marche.fr/images/social/opengraph.jpg">
   <meta name="og:url" content="http://www.europe-en-marche.fr">
   <meta name="og:site_name" content="Europe en Marche">
   <meta name="og:locale" content="fr_FR">
   <meta name="og:type" content="website">
 
-  <link rel="stylesheet" href="css/reset.css" />
-  <link rel="stylesheet" href="css/main.css" />
-  <link rel="stylesheet" href="css/welcome.css" />
-  <link rel="stylesheet" href="css/schedule.css" />
-  <link rel="stylesheet" href="css/instagram.css" />
-  <link rel="stylesheet" href="css/medium.css" />
+  <link rel="stylesheet" href="fonts/fonts.css" />
+
+  <link rel="stylesheet" href="styles/reset.css" />
+  <link rel="stylesheet" href="styles/main.css" />
+  <link rel="stylesheet" href="styles/wiki.css" />
 </head>
 
 
 <body>
   <div id="container">
     <header>
-      <h1><a>Europe En Marche</a></h1>
+      <h1>
+        <div id="menu">
+          <span></span>
+          <span></span>
+        </div>
+        
+        <a href="#">Europe En Marche</a>
+      </h1>
 
       <menu>
-        <li><a href="#">Notre<br>Tribune</a></li>
-        <li><a href="#">Nos<br>Membres</a></li>
-        <li><a href="#">Notre<br>Charte</a></li>
+        <li><a href="#wiki/association/tribune">Notre Tribune</a></li>
+        <li><a href="#wiki/association/charter">Notre Charte</a></li>
+        <!--<li><a href="#wiki/association/team">Notre Équipe</a></li>
+        <li><a href="#wiki">Notre Wiki</a></li>
+        <li><a href="#dlpe">Appel à Contribution</a></li>-->
       </menu>
+
+      <div class="spacer"></div>
 
       <a href="mailto:contact@europe-en-marche.fr" class="contact">Nous<br>Contacter</a>
 
       <div class="social">
-        <a class="twitter" href="https://www.facebook.com/EuropeEnMarche"></a>
+        <a class="twitter" href="https://www.twitter.com/EuropeEnMarche"></a>
         <a class="facebook" href="https://www.facebook.com/EuropeEnMarche"></a>
       </div>
     </header>
 
-    <main>
-      <section id="welcome">
-        <div id="why">
-          <b>Ensemble,</b><br>
-          Ayons le courage de dire,<br>
-          L'énergie de faire !
-        </div>
-
-        <a href="http://europe-en-marche.us15.list-manage.com/subscribe/post?u=afdf5656116858e389041e0ef&id=cccc28de89" class="button">Je souhaite participer !</a>
-      </section>
-
-      <section id="instagram">
-        <div class="title">
-          l'Europe Utile \
-          <span class="about">Des chiffres clés,<br>des informations factuelles.</span>
-        </div>
-      </section>
-
-      <section id="medium">
-        <div class="title">
-          les Publications \
-          <span class="about">Pour une meilleure information<br>sur l’Union Européenne !</span>
-        </div>
-      </section>
-    </main>
+    <main></main>
 
     <footer>
       <!--&copy;2017, Europe en Marche, tous droits réservés-->
     </footer>
   </div>
-
-  <div id="cookies">
-    Ce site utilise des cookies pour améliorer votre navigation <button onclick="Cookies.accept();">OK</button>
-  </div>
 </body>
 
-<script src="js/main.js"></script>
-<script src="js/medium.js"></script>
-<script src="js/instagram.js"></script>
+<script src="scripts/markdown.js"></script>
+<script src="scripts/cookies.js"></script>
+<script src="scripts/engine.js"></script>
 
 </html>

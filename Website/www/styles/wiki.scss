@@ -1,0 +1,98 @@
+$grey: #444444;
+$blue: #001A3F;
+$white: #FFFFFF;
+$yellow: #FFCC00;
+
+main.wiki {
+	font-size: 110%;
+	line-height: 1.5;
+	padding: 20px 40px;
+
+	h1, h2, h3, h4 {
+		color: $blue;
+	}
+	
+	h1 {
+		text-align: center;
+		text-transform: uppercase;
+
+		margin: 1em auto;
+		font-size: 200%;
+	}
+
+	h1::after {
+		content: '';
+		display: block;
+		margin: 1em auto;
+		width: 100px;
+		border-bottom: 2px solid $yellow;
+	}
+	
+	h2 {
+		margin: 2em 0 1em;
+		text-align: center;
+		font-size: 150%;
+	}
+
+	h3 {
+		margin: 2em 0 1em;
+		font-size: 125%;
+	}
+
+	p {
+		margin: 1em 0;
+	}
+
+	em {
+		font-style: italic;
+	}
+	
+	strong {
+		font-weight: 700;
+	}
+
+	img {
+		max-width: 100%;
+		border: 1px solid #ccc;
+		border-radius: 5px;
+	}
+
+	p.center { text-align: center; }
+	
+	img.p20 { width: 20%; margin: 0 1.5%; }
+	img.p50 { width: 50%; margin: 0 2.5%; }
+
+	img.inline { display: inline-block; }
+	img.circle { border-radius: 1000px; }
+
+	a {
+		font-style: italic;
+    color: $blue;
+	}
+
+	a::after {
+		content: attr(data-title);
+		display: inline-block;
+	}
+
+	ul li {
+		margin: 0.5em 0 0.5em 1em; //&#9205;
+
+	}
+
+	ul {
+    list-style: none;
+    padding-left: 1.2em;
+	}
+
+	li:before {
+			content: "\25B6";
+			display: block;
+			float: left;
+			font-size: 80%;
+			line-height: 1.5;
+			width: 1.2em;
+			margin-left: -1.2em;
+			color: $yellow;
+	}
+}

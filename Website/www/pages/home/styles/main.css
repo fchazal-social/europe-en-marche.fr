@@ -1,0 +1,1 @@
+main.home div.title{padding:0.5em 10pt;color:#fc0;font-size:2.5em;text-transform:uppercase;background:#001A3F}main.home div.title .about{display:inline-block;color:white;font-size:0.4em;font-style:italic;line-height:120%;text-transform:none}@media screen and (max-width: 800px){main.home div.title{font-size:2em}main.home div.title .about{display:none}}

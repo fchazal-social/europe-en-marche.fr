@@ -1,0 +1,35 @@
+$blue: #001A3F;
+$yellow: #FFCC00;
+
+main.home {
+	div.title {
+		padding: 0.5em 10pt;
+
+		color: $yellow;
+		font-size: 2.5em;
+		text-transform: uppercase;
+		
+		background: $blue;
+
+		.about {
+			display: inline-block;
+
+			color: white;
+			font-size: 0.4em;
+			font-style: italic;
+
+			line-height: 120%;
+			text-transform: none;
+		}
+	}
+}
+
+@media screen and (max-width: 800px) {
+	main.home div.title {
+		font-size: 2em;
+
+		.about {
+			display: none;
+		}
+	}
+}

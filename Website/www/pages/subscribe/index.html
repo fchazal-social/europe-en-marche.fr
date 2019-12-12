@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="./styles/main.css" />
+
+<h1>Je souhaite adhérer à <em>Europe En Marche</em></h1>
+
+<form id="subscribe" action="/pages/subscribe/subscribe.php" method="post">
+	<i>L'adhésion est gratuite et nominative, elle est conditionné par l'acceptation de la charte de l'association.</i>
+
+	<input name="surname" autocomplete="family-name" type="text" placeholder="Quel est votre nom ?" required>
+	<input name="firstname" autocomplete="given-name" type="text" placeholder="Quel est votre prénom ?" required>
+	<input name="email" autocomplete="email" type="email" placeholder="Quel est votre adresse e-mail ?" required>
+	<select name="membership" required>
+		<option selected disabled value="">Êtes-vous adhérent(e) à LaREM ?</option>
+		<option value="adhérent">OUI, simple adhérent</option>
+		<option value="militant">OUI, marcheur actif</option>
+		<option value="référent">OUI, référent départemental</option>
+		<option value="élu">OUI, élu de LaREM</option>
+		<option value="oui">OUI, autre</option>
+		<option value="non">NON</option>
+	</select>
+
+	<iframe src="#wiki/association/charter!embed"></iframe>
+	<label><input name="charter" type="checkbox" required>J’atteste avoir lu la présente charte des valeurs et partager l’intégralité de son contenu.</label>
+	
+	<button type="submit">Je valide mon adhésion à<br><b>Europe En Marche</b></button>
+</form>

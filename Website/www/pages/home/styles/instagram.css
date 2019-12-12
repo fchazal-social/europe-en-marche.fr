@@ -1,0 +1,1 @@
+section#instagram a{display:table-cell;width:160px;height:160px;background-size:cover;background-position:center;background-color:#fc0;transition:all 0.1s linear;box-shadow:0 0 0pt rgba(0,0,0,0.5)}section#instagram a:hover{transform:scale(1.1);box-shadow:0 0 10pt rgba(0,0,0,0.5);z-index:10}

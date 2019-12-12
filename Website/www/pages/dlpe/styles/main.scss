@@ -1,0 +1,427 @@
+$blue: #001A3F;
+$yellow: #FFCC00;
+
+main.dlpe {
+	font-size: 110%;
+	line-height: 1.5;
+	padding: 20px 40px;
+
+	section { display: none; }
+	section.visible { display: block; }
+
+	h1 {
+		font-size: 2em;
+		color: $blue;
+		margin: 1em 0;
+		text-align: center;
+		text-transform: uppercase;
+	}
+
+	h2 {
+		text-align: center;
+		position: relative;
+		font-size: 1.5em;
+		color: $blue;
+		margin: 1em 0;
+		text-transform: uppercase;
+	}
+	h2::after {
+		position: absolute;
+		content: '';
+		top: 100%;
+		left: 45%;
+		width: 10%;
+		margin-top: 0.25em;
+		border-bottom: 2px solid $yellow;
+	}
+
+	h3 {
+		text-align: center;
+		font-size: 1.4em;
+		color: $blue;
+		margin: 2em 0 0.5em;
+		overflow: hidden;
+	}
+
+	strong {
+		font-weight: 700;
+	}
+
+	#progress {
+		text-align: center;
+
+		li {
+			display: inline-block;
+
+			width: 2vw;
+			height: 2vw;
+			max-width: 20px;
+			max-height: 20px;
+
+			margin: 0.7%;
+
+			border-radius: 1em;
+
+			background: rgba($blue, 0.25);
+		}
+
+		li.done {
+			background: $blue;
+		}
+	}
+
+	.cell {
+		border-radius: 5px;
+		padding: 0.5em;
+		font-size: 0.9em;
+	}
+	.cell::before {
+		display: block;
+		border-radius: 5px 5px 0 0;
+
+		padding: 0.5em;
+		margin: -0.7em -0.7em 0.5em;
+		
+		color: $blue;
+		font-size: 0.8em;
+		background: rgba($blue, 0.1);
+		font-weight: 700;
+
+		text-transform: uppercase;
+	}
+
+	#thematique {
+		color: $yellow;
+		font-size: 1em;
+		font-weight: 600;
+		text-transform: uppercase;
+	}
+
+	#contexte::before {	content: 'Contexte' }
+	#chronologie::before {	content: 'Chronologie' }
+	#recommandations_etats::before {	content: 'Recommandations aux États membres' }
+	#recommandations_commission::before {	content: 'Recommendations à la Commission' }
+
+
+	a#wiki {
+		text-align: center;
+		font-weight: 400;
+		font-style: italic;
+		display: block;
+		padding-bottom: 2em;
+		transition: 0.1s all linear;
+		border-radius: 1em;
+
+		display: block;
+		position: relative;
+    margin: auto;
+    width: 300px;
+		padding: 1em;
+	}
+	a#wiki:hover {
+		transform: scale(1.2);
+		background: rgba($yellow, 0.1);
+	}
+
+	input[type=radio]:not(:checked),
+	input[type=radio]:checked {
+		position: absolute;
+		left: -9999px;
+	}
+	 
+	/* on prépare le label */
+	input[type=radio]:not(:checked) + label,
+	input[type=radio]:checked + label {
+		position: relative;
+		display: inline-block;
+		cursor: pointer;
+		background: #ccc;
+		padding: 0.5em;
+		margin: 0.5em;
+		border-radius: 100px;
+		font-weight: bold;
+		color: #fff;
+		width: 1em;
+		line-height: 1em;
+		text-align: center;
+		transition: all 0.1s linear;
+	}
+	
+	input[type=radio]:checked + label {
+		background: $blue;
+		transform: scale(1.5);
+	}
+	
+	
+	
+	a.button {
+		cursor: pointer;
+		display: inline-block;
+		position: relative;
+
+		transform: translateX(-50%);
+		
+		line-height: 16px;
+		padding: 8px;
+		
+		margin: 20pt 50%;
+		min-width: 15em;
+		text-align: center;
+	
+		color: $blue;
+		text-transform: uppercase;
+	
+		background-color: $yellow;
+	
+		transition: all 0.1s linear;
+	}
+	a.button:before{
+		content: '';
+		position: absolute;
+	
+		top: 0;
+		left: -16px;
+		height: 0;
+		width: 0;
+		
+		border-left: 16px transparent solid;
+		border-top: 32px $yellow solid;
+	}
+	a.button:after {
+		content: '';
+		position: absolute;
+	
+		top: 0;
+		left: 100%;
+		height: 0;
+		width: 0;
+	
+		border-right: 16px transparent solid;
+		border-bottom: 32px $yellow solid;
+	}
+	
+	a.button:hover {
+		transform: translateX(-50%)	scale(1.1);
+	}
+	
+	
+	.table {
+		display: flex;
+		margin: 1em auto;
+		max-width: 90%;
+		flex-wrap: wrap;
+	
+	
+		>div {
+			display: inline-block;
+			flex-grow: 1;
+			flex-shrink: 0;
+			
+			width: 48%;
+			margin: 1%;
+			border: 1px solid white;
+			box-sizing: border-box;
+			text-align: justify;
+	
+			min-width: 250px;
+	
+		}
+	}
+	
+	input[type=text],
+	select {
+		display: block;
+		width: 80%;
+		max-width: 500px;
+		text-align: center;
+	
+		margin: 0.5em auto;
+		font-size: 1.5em;
+		text-transform: uppercase;
+		line-height: 2;
+		color: inherit;
+		font-family: inherit;
+		font-weight: inherit;
+		padding: 10px 20px;
+		box-sizing: border-box;
+	
+		border: solid $blue;
+		border-width: 0 0 2px 0;
+		border-radius: 0;
+		background: transparent;
+		
+		-webkit-appearance: unset;
+	}
+	
+	input[type=text]:focus,
+	select:focus {
+		background: rgba($yellow, 0.2);
+		outline: none;
+	}
+
+	 
+	/* on prépare le label */
+	input[type=radio]:not(:checked) + label,
+	input[type=radio]:checked + label {
+		position: relative;
+		display: inline-block;
+		cursor: pointer;
+		background: #ccc;
+		padding: 0.5em;
+		margin: 0.5em;
+		border-radius: 100px;
+		font-weight: bold;
+		color: #fff;
+		width: 1em;
+		line-height: 1em;
+		text-align: center;
+	}
+	
+	input[type=radio]:checked + label {
+		background: $blue;
+		transform: scale(1.5);
+		opacity: 1 !important;
+	}
+	
+	#priorite_france input[type=radio]:checked + label::before {
+		content: '';
+		position: absolute;
+		z-index: -1;
+		top: -40%;
+		left: 60%;
+		width: 1em;
+		height: 1em;
+		background-image: url(../images/fr-flag.svg);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-color: transparent;
+		transform: rotate(10deg);
+	}
+	
+	#priorite_europe input[type=radio]:checked + label::before {
+		content: '';
+		position: absolute;
+		z-index: -1;
+		top: -40%;
+		left: 60%;
+		width: 1em;
+		height: 1em;
+		background-image: url(../images/eu-flag.svg);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-color: transparent;
+		transform: rotate(10deg);
+	}
+	
+	input[type=radio]:not(:checked) + label:hover {
+		background: rgba($blue,0.5);
+		transform: scale(1.25);
+	}
+	
+	#vote {
+		position: relative;
+    margin: auto;
+		width: 24em;
+		height: 12em;
+    max-width: 90%;
+		background-image: url(../images/vote.svg);
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+	
+	#vote > label {
+		border-radius: 0;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-color: transparent;
+
+		position: absolute;
+    width: 30%;
+    height: 30%;
+    opacity: 0.5;
+    padding: 0;
+    margin: 0;
+		background-position: center;
+	}
+	
+	#vote_1 + label {
+		background-image: url(../images/vote-pour.svg);
+		top: 60%;
+		left: 0%;
+	}
+	#vote_0 + label {
+		background-image: url(../images/vote-nul.svg);
+		top: 15%;
+		left: 35%;
+	}
+	#vote_-1 + label {
+		background-image: url(../images/vote-contre.svg);
+		top: 60%;
+		right: 0;
+	}
+
+	#score {
+		font-weight: 400;
+		font-size: 1.3em;
+		text-align: center;
+		margin: 0.5em 0;
+	}
+
+	.score {
+		position: relative;
+		display: block;
+		width: 200px;
+		background: #c20;
+		height: 20px;
+		margin: 0.5em auto;
+		border-radius: 20px;
+		overflow: hidden;
+	}
+
+	.score::before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+		background: #280;
+	}
+
+	.score::after {
+		content: attr(data-name)' : 'attr(data-width);
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+		width: 100%;
+		text-align: center;
+		font-size: 0.9em;
+		font-weight: 400;
+		line-height: 20px;
+		color: white;
+	}
+
+	.mep {
+		text-align: center;
+		max-width: 500px;
+		width: 80%;
+		margin: auto;
+
+		.block {
+			display: inline-block;
+			min-width: 200px;
+			width: 49%;
+		}
+	}
+
+	@for $i from 1 through 100 {
+		.score-#{$i}::before {
+			width: #{$i + %};
+		}
+	}
+}

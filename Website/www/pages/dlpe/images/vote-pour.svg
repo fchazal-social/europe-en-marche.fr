@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="538px" height="538px" viewBox="0 0 538 538" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>pour</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-441.000000, -879.000000)">
+        <g id="Group-2" transform="translate(454.000000, 215.000000)" fill-rule="nonzero">
+            <g id="pour" transform="translate(0.000000, 677.000000)">
+                <circle id="Oval" stroke="#011B3E" stroke-width="25" fill="#7ED321" cx="256" cy="256" r="256"></circle>
+                <g id="Group" transform="translate(128.000000, 160.000000)" fill="#FFFFFF">
+                    <circle id="Oval" cx="32" cy="32" r="32"></circle>
+                    <circle id="Oval" cx="224" cy="32" r="32"></circle>
+                    <path d="M128,256 C85.248,256 45.088,239.328 14.848,209.12 C8.608,202.88 8.608,192.736 14.848,186.496 C21.088,180.256 31.232,180.256 37.472,186.496 C85.824,234.88 170.112,234.88 218.496,186.496 C224.736,180.256 234.88,180.256 241.12,186.496 C247.36,192.736 247.36,202.88 241.12,209.12 C210.912,239.328 170.752,256 128,256 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

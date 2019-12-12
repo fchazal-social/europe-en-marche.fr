@@ -1,0 +1,239 @@
+{
+	"WELCOME": {
+		"type": "welcome"
+	},
+
+	"INFORMATIONS": {
+		"type": "informations"
+	},
+	
+	"A8-0200/2016": {
+		"type": "question",
+		"nom": "Corps européen de Gardes Frontières",
+		"theme": "securite",
+		"thematique": "Sécurité",
+		"wiki": "#wiki/rapports/securite/garde-frontiere",
+		"contexte": "Face à la pression migratoire aux frontières extérieures de l’Union, et compte tenu des risques de dislocation de l’Espace Schengen, la Commission européenne a proposé de mettre en place un corps européen dédié à la protection des Frontières et géré par une Agence spéciale.",
+		"chronologie": "Initié en février 2016, cette résolution législative a été votée en plénière le 16 septembre 2016, et a associé 5 commissions parlementaires (Liberté civiles, Transport, Pêche, Affaires étrangères et Budget). Le texte a été adopté en première lecture, dite alors, lecture unique.",
+		"recommandations_etats": "La Commission a proposé de mettre en place une Agence dédiée à la protection des frontières extérieures de l’UE qui bénéficierait d’**une force d’intervention de 1500 personnes** ; elle devrait avoir les moyens d’**intervenir de manière autonome pour mettre en oeuvre les actions de surveillance et de contrôle des frontières**. Elle aurait également compétence en matière d’**organisation du retour des ressortissants irréguliers**, et disposerait d’un budget pour se doter de matériel technique et investir dans la recherche et l’innovation.",
+		"recommandations_commission": "Le Parlement européen a **apporté des modifications aux propositions initiales** de la Commission en renforçant le **rôle des Etats membres dans la gestion et le contrôle des missions**, en rappelant que seul le **Conseil européen peut juger de l’opportunité** des missions à conduire, et en **limitant les ressources propres** de l’Agence."
+	},
+	"A8-0351/2017": {
+		"type": "question",
+		"nom": "Fond de Défense européen",
+		"theme": "securite",
+		"thematique": "Sécurité",
+		"wiki": "#wiki/rapports/securite/fond-defense",
+		"contexte": "Le contexte géopolitique actuel accroît l'impératif d'un développement de l'Europe de la défense. **Le départ programmé en 2019 du Royaume-Uni de l'Union européenne doit être l'occasion pour l'UE d'accroître sa coopération en matière de défense** ; les britanniques ayant paralysé de nombreuses actions dans ce domaine au cours des dernières années comme l'illustre leur opposition pendant 5 ans à toute hausse du budget de l'agence européenne de défense.",
+		"chronologie": "Depuis le premier conseil européen post-Brexit en septembre 2016 à Bratislava, **un renforcement de la coopération européenne en matière de défense est une priorité de l'UE.** Saisi en février 2017, le Parlement européen a travaillé pendant 10 mois à cette résolution.",
+		"recommandations_etats": "La résolution a demandé **l'établissement d'un véritable quartier général stratégique militaire et civil européen** dans le cadre de la Coopération Structurée Permanente. Elle a encouragé les États membres à mettre en place une «Force européenne intégrée» composée de divisions venant des armées nationales et la mettre à la disposition de l'Union.",
+		"recommandations_commission": "Le Parlement a souligné que **l'Union devait recourir à toute la panoplie des instruments politiques disponibles** - diplomatie, coopération au développement, instruments civils et économiques, prévention des crises et stratégies à déployer après un conflit, maintien et imposition de la paix - afin de faire face aux défis qui se posent. Il a suggéré d'évaluer la possibilité de mettre en place une direction générale de la défense au sein de la Commission, laquelle devrait travailler en lien avec l'Agence européenne de défense (AED)."
+	},
+	"B8-0238/2017": {
+		"type": "question",
+		"nom": "Corps européen de Solidarité",
+		"theme": "untracked",
+		"thematique": "Sécurité",
+		"wiki": "#wiki/rapports/securite/corps-solidarite",
+		"contexte": "Le principe de la <strong>solidarité</strong> étant l'un des principes fondamentaux de l'Union européenne, le <strong>corps européen de solidarité </strong>a pour but de permettre aux jeunes de prendre part à un vaste éventail d'activités de solidarité, qu'il s'agisse de<strong> volontariat ou d'une expérience professionnelle, contribuant à remédier à des situations difficiles</strong>.",
+		"chronologie": "Portée par la Commission CULT du Parlement européen, l'idée d'un corps européen de solidarité a fait l'objet d'un débat parlementaire suivi d'un vote le 6 avril 2017.",
+		"recommandations_etats": "Le Parlement préconise notamment aux États de participer activement à la <strong>définition</strong> d'une « action de solidarité » au niveau de l'Union ; de poursuivre les <strong>investissements</strong> dans les actions structurées de protection civile et d'aide humanitaire ; de lier les <strong>politiques d'emploi des jeunes</strong> à des contrats de travail durables et de qualité afin de lutter contre la précarité et le sous-emploi ; de veiller à ce que les <strong>jeunes issus de milieux défavorisés ou ayant des besoins spécifiques</strong> aient pleinement accès au corps européen de solidarité.",
+		"recommandations_commission": "La Commission est appelée à définir les <strong>objectifs</strong> du corps européen ; à intégrer le Corps européen de solidarité dans une <strong>stratégie plus vaste </strong>visant à créer un environnement propice au volontariat en Europe ; à intégrer le <strong>volontariat dans les programmes et les fonds européens </strong>et <strong>distinguer les actions de volontariat et les placements professionnels</strong>"
+	},
+	
+	"A8-0204/2016": {
+		"type": "question",
+		"nom": "Inclusion et Intégration des Réfugiés",
+		"theme": "monde",
+		"thematique": "Europe dans le Monde",
+		"wiki": "#wiki/rapports/monde/inclusion-refugies",
+		"contexte": "Face à l'afflux des réfugiés, **que peut faire l'Union européenne pour assurer un accueil digne** aux personnes qui entrent sur son territoire ?",
+		"chronologie": "Fruit de 9 mois de consultation, le rapport porté par l'italien Brando Benifei a finalement été voté en Plénière le 05/06/2016.",
+		"recommandations_etats": "Le rapport préconise notamment aux Etats de **garantir une intégration** complète et rapide aux réfugiés dans les mêmes conditions que tout migrant légal, de **raccourcir le temps de traitement** des demandes d'asile et de garantir un égal accès à la formation, aux stages et à l'apprentissage.",
+		"recommandations_commission": "La Commission est appelée à veiller à ce que les demandes d'asiles soient **traitées dans les 6 mois, de vérifier que les Etats permettent l'accès à l'emploi des réfugiés et de renforcer la lutte contre toutes les discriminations**."
+	},
+	"A8-0066/2016": {
+		"type": "question",
+		"nom": "Approche globale sur les Migrations",
+		"theme": "monde",
+		"thematique": "Europe dans le Monde",
+		"wiki": "#wiki/rapports/monde/approche-migrations",
+		"contexte": "Suite à la crise migratoire à laquelle a dû faire face l'Union européenne, le Parlement européen a décidé de travailler sur un rapport d'initiative pour <strong>donner sa position sur les grands enjeux migratoires</strong>: relocalisation, révision de Dublin III, réinstallation, intégration, Schengen, Hotspots, financement, liste de pays sûrs,…",
+		"chronologie": "Les députés européens ont travaillé pendant 12 mois sur ce rapport d'initiative porté par Roberta Metsola et Kashetu Kyenge, adopté en session plénière en avril 2016. Ce rapport d'initiative sert de position globale au Parlement européen sur les enjeux migratoires.",
+		"recommandations_etats": "Les députés européens demandent aux <strong>Etats membres</strong> de <strong>respecter et d'appliquer les mesures de relocalisation</strong>, de <strong>renforcer les moyens mis à disposition pour les sauvetages en mer</strong> et d'adopter un <strong>dispositif législatif contraignant pour la réinstallation à l'échelle européenne</strong>. Le Parlement souhaite aussi que les <strong>mesures d'intégration et d'accueil </strong>soient renforcées et que les Etats appliquent mieux les <strong>règles européennes aux frontières extérieures</strong> et qu'ils harmonisent la liste des pays d'origine sûrs.",
+		"recommandations_commission": "La <strong>Commission européenne </strong>est appelée à proposer <strong>une révision du règlement Dublin III</strong> (en cours) et à poursuivre son travail sur le <strong>corps de garde frontières européen </strong>et sur la <strong>révision du code frontières Schengen</strong>. Le Parlement lui demande aussi d'adopter des <strong>mesures plus efficaces pour les sauvetages en mer</strong>, de mettre en place rapidement les <strong>points d'accès</strong> \"les Hot spots\",  et d'avoir une <strong>véritable politique de coopération avec les pays tiers concernés</strong>. Elle est aussi appelée à être transparente et claire sur les <strong>fonds alloués </strong>pour les enjeux migratoires jusqu'en 2020."
+	},
+	"A8-0334/2017": {
+		"type": "question",
+		"nom": "Stratégie UE - Afrique : un coup d'accélérateur au développement",
+		"theme": "monde",
+		"thematique": "Europe dans le Monde",
+		"wiki": "#wiki/rapports/monde/strategie-afrique",
+		"contexte": "La proposition vise à <strong>redynamiser la coopération entre l'Union européenne et l'Afrique sur le développement économique, la gouvernance, le développement humain, les migrations, la mobilité et  l'environnement</strong>.",
+		"chronologie": "Après 6 mois de travail et de consultations, le Parlement a adopté en novembre 2017, un rapport portant sur le renforcement du partenariat entre l'Union européenne et l'Afrique.",
+		"recommandations_etats": "Le Parlement européen préconise notamment aux Etats membres de <strong>cibler l'aide publique au développement</strong>, d'accentuer la <strong>coopération entre secteurs privés européens et africains</strong>, de coopérer et fournir une <strong>assistance aux pays africains qui font face à des mouvements de réfugiés</strong> ou à des situations de crises prolongées.",
+		"recommandations_commission": "Le Parlement européen invite la Commission européenne  à <strong>intensifier le dialogue avec l'Afrique sur les migrants et les réfugiés</strong>, promouvoir les échanges entre étudiants, enseignants, entrepreneurs et chercheurs des deux continents, redynamiser le commerce entre les deux continents et <strong>accorder une place privilégiée à l'éducation et le changement climatique dans l'aide publique au développement européenne</strong>."
+	},
+	
+	"A8-0391/2016": {
+		"type": "question",
+		"nom": "Socle européen de droits sociaux",
+		"theme": "prosperite",
+		"thematique": "Prospérité & Emploi",
+		"wiki": "#wiki/rapports/prosperite/droits-sociaux",
+		"contexte": "Suite à la crise de défiance à laquelle fait face la Commission, souvent jugée trop libérale, et face aux craintes et inquiétudes répétées des citoyens européens, la Commission a décidé de lancer une <strong>grande consultation en mars 2016 sur un socle européen des droits sociaux,qui serait un cadre de référence pour les politiques sociales et d'emploi nationales et européennes.</strong> Cette consultation a conduit à plus d'un an de débats entre institutions et partenaires sociaux et à déboucher, en avril 2017 sur une <strong>proposition de 20 principes pour une Europe sociale</strong>.",
+		"chronologie": "Le Parlement européen a décidé de contribuer à la consultation lancée par la Commission européenne en rédigeant un <strong>rapport d'initiative</strong> qui se base sur les contributions tout en réaffirmant leur position. Après six mois de travail, il a adopté ce rapport porté par la députée européenne portugaise Maria Joao Rodrigues (socialiste) le 19 janvier 2017, en session plénière.",
+		"recommandations_etats": "Les Etats membres sont appelés <strong>à mieux appliquer et à transposer complètement la législation européenne existante,</strong> en matière de droit du travail, égalité des chances, portabilité des droits sociaux ; à s<strong>igner et ratifier la charte sociale européenne révisée </strong>ainsi que la Convention européenne de sécurité sociale ; et à <strong>renforcer les investissements sociaux</strong> et <strong>respecter le socle européen des droits sociaux</strong> qui sera défini.",
+		"recommandations_commission": "La Commission européenne doit présenter <strong>un socle européen des droits sociaux </strong>accompagné d'une feuille de route mettant en place des mesures concrètes. Les députés européens lui demandent de <strong>renforcer les droits sociaux </strong>avec des outils concrets et spécifiques et d'appliquer les normes sociales. Ils lui demandent <strong>de mieux surveiller la mise en oeuvre des directives</strong> dans les Etats membres. Ils souhaiteraient aussi qu'un <strong>protocole social soit inscrit dans les Traités</strong> lors d'une prochaine révision."
+	},
+	"P8_TA(2016)0311": {
+		"type": "question",
+		"nom": "Synergies entre les Fonds structurels et Horizon 2020",
+		"theme": "untracked",
+		"thematique": "Prospérité & Emploi",
+		"wiki": "#wiki/rapports/prosperite/fonds-structurels",
+		"contexte": "A la lumière des fonds structurels et du programme Horizon 2020, la question se pose de savoir comment <strong>maximiser l'impact des investissements dans la recherche et l'innovation.</strong>",
+		"chronologie": "Depuis des années déjà la Commission travaille sur la question des synergies entre les Fonds structurels et d'investissement européens (ESI) et d'autres programmes et fonds d'innovation. Cette résolution concernant notamment le Programme Horizon 2020 a été votée en plénière le <strong>6 juillet 2016</strong>.",
+		"recommandations_etats": "Le Parlement préconise aux <strong>États membres</strong> d'accorder une attention soutenue aux besoins des <strong>PME</strong> dans la conception et la mise en œuvre des <strong>Fonds ESI et d'Horizon 2020</strong>, ainsi qu'aux <strong>synergies entre ces deux fonds</strong>.",
+		"recommandations_commission": "La <strong>Commission</strong> est appelée à accorder davantage d'attention aux <strong>synergies</strong> entre les fonds ESI et Horizon 2020 ; à préparer des appels à propositions coordonnés pour faciliter l'accès aux <strong>financements multi-fonds</strong>; à évaluer les programmes axés sur les <strong>PME</strong>, tels que le programme COSME, l'instrument PME d'Horizon 2020 et le volet PME du FEIS, en ce qui concerne la dotation budgétaire, le taux de réussite des projets et la charge administrative, ainsi que la facilité de mise en œuvre ;  à <strong>surveiller</strong> systématiquement les synergies entre les fonds et à diffuser les exemples de <strong>bonnes pratiques</strong>."
+	},
+	"A8-0051/2018": {
+		"type": "question",
+		"nom": "Assiette Commune consolidée pour l'impôt sur les sociétés",
+		"theme": "prosperite",
+		"thematique": "Prospérité & Emploi",
+		"wiki": "#wiki/rapports/prosperite/impot-societes",
+		"contexte": "La fiscalité est, avec notamment la défense, l'un des sujets les plus fréquemment discutés au niveau européen à l'heure actuelle. <strong>Domaine relevant encore très largement de la compétence nationale, son harmonisation est envisagée depuis de nombreuses années, particulièrement pour ce qui concerne l'impôt sur les sociétés</strong>. Dans un environnement d'optimisation fiscale pouvant être parfois agressif, comment rendre l'imposition des sociétés au sein de l'UE plus équitable, plus compétitif tout en favorisant la croissance ?",
+		"chronologie": "La Commission a présenté, en juin 2015, une stratégie visant à déposer une nouvelle version de la proposition sur l'ACCIS en 2016. La directive qui sera adoptée par le Conseil européen doit faire l'objet d'une consultation du Parlement européen qui ne lie pas les Etats membres. Initié en novembre 2016, les travaux conduit pas Alain Lamassoure ont duré près d'un an et demi, pour être finalement voté en mars 2018.",
+		"recommandations_etats": "Les Etats membres doivent parvenir progressivement à <strong>un taux moyen d'IS de 25%</strong> et s'accorder sur les définitions du contour de la taxation : à la fois sur les sommes entrant dans le calcul, mais également sur les entités imposables. <strong>Ces dispositions faciliteront l'accès au marché commun de toutes les entreprises, et lutteront efficacement contre le dumping fiscal.</strong>",
+		"recommandations_commission": "La Commission est invitée à mettre rapidement en place les deux dispositifs : d'une part l'assiette commune avec notamment les définitions des produits et des charges qui sont admises et l'assiette commune consolidée ;<strong> établir un système de répartition des bénéfices entre les Etats Membres</strong> ; mettre en place une déclaration unique et un guichet unique."
+	},
+	"A8-0255/2016": {
+		"type": "question",
+		"nom": "Dumping social dans l'Union européenne",
+		"theme": "prosperite",
+		"thematique": "Prospérité & Emploi",
+		"wiki": "#wiki/rapports/prosperite/lutte-dumping",
+		"contexte": "Le dumping social dans l'Union européenne encourage la défiance des citoyens vis-à-vis de la construction européenne et est source de distorsions économiques entre les Etats, créant une inégalité entre les travailleurs",
+		"chronologie": "Initié en juillet 2015, le travail sur ce rapport a associé 3 commissions du Parlement européen (Transport, Emploi et Affaires sociales, Droits des Femmes). Il a été voté en Plénière le 14 septembre 2016.",
+		"recommandations_etats": "Le rapport suggère aux Etats membres de renforcer les inspections du travail en leur proposant notamment des programmes de formation spécifique pour lutter contre les abus, et en améliorant les échanges d'information entre les organismes de sécurité sociale des Etats.",
+		"recommandations_commission": "La Commission est invitée à lutter efficacement contre les sociétés boîte à lettre qui n'ont pas de siège social dans les Etats concernés ; à mettre en place un fichier des entreprises qui abusent de pratiques illégales et de conditionner l'accès aux marchés publics et aux subventions au respect des règles sociales ; à proposer que les travailleurs détachés puissent être subordonnés au droit du travail du pays d'accueil."
+	},
+
+	"A8-0005/2018": {
+		"type": "question",
+		"nom": "Accélérer l’innovation pour<br>une énergie propre",
+		"theme": "environnement",
+		"thematique": "Développement Durable",
+		"wiki": "#wiki/rapports/environnement/energie-propre",
+		"contexte": "La proposition vise à soutenir le financement d'innovations au service de l'efficacité énergétique et des énergies renouvelables au service de<strong> la construction de l'Union de l'énergie",
+		"chronologie": "Après <strong>1 an de travail et de consultations</strong>, le Parlement a adopté en février 2018, un rapport portant sur l'accélération de l'innovation associant 4 commissions.",
+		"recommandations_etats": "Le Parlement européen préconise notamment aux Etats membres d'<strong>améliorer la transparence et la cohérence des instruments financiers en matière d'aide à l'innovation</strong> dans le secteur de l'énergie, et d'aider le autorités régionales et locales à prendre des mesures coordonnées pour encourager l'innovation énergétique.",
+		"recommandations_commission": "Le Parlement européen invite la Commission européenne  à un ensemble de mesures assurant une <strong>cohérence des financements pour l'innovation energétique</strong> au regard des engagements pris pour l'accord de Paris du 12 décembre 2015 (COP 21) et la construction de l'Union de l'énergie."
+	},
+	"A8-0163/2016": {
+		"type": "question",
+		"nom": "Promotion de l'innovation et du développement économique en rapport avec une gestion agricole d'avenir",
+		"theme": "environnement",
+		"thematique": "Développement Durable",
+		"wiki": "#wiki/rapports/environnement/gestion-agricole",
+		"contexte": "La proposition vise à soutenir le financement d'innovations technologique alliant productivité et durabilité de l'agriculture.",
+		"chronologie": "Après six mois de travail et de consultations, le Parlement a adopté en juin 2016, un rapport portant sur l'innovation et le développement économique du secteur agricole, dans le cadre de la Politique Agricole Commune 2014-2020.",
+		"recommandations_etats": "Le Parlement européen préconise aux Etats membres de <strong>créer des synergies entre acteurs du secteur agricole</strong> pour innover et répondre aux enjeux de l'économie circulaire tout en garantissant une concurrence loyale.",
+		"recommandations_commission": "Le Parlement européen invite la Commission européenne  à <strong>augmenter les investissements dans l'agriculture innovante</strong>, en offrant des outils financiers pour favoriser l'absorption des investissements dans l'agriculture tout en luttant contre les fluctuations des prix du secteur."
+	},
+	"A8-0258/2017": {
+		"type": "question",
+		"nom": "Système d'échange de quotas d'émission",
+		"theme": "environnement",
+		"thematique": "Développement Durable",
+		"wiki": "#wiki/rapports/environnement/marche-carbone",
+		"contexte": "Dans le cadre de l'objectif contraignant de réduction des émissions de gaz à effet de serre de l'UE d'au moins 40% par rapport aux niveaux de 1990 d'ici à 2030, la forte croissance des émissions de gaz à effet de serre (GES) du secteur de l'aviation risque de saper les efforts déployés.<br>À l'échelle internationale, via l'Organisation de l'Aviation Civile Internationale (OACI), les Etats ont adopté la mise en oeuvre d'un <strong>système de compensation des émissions de l'aviation internationale</strong>.",
+		"chronologie": "Cette proposition de règlement fait suite à l'accord international obtenu en octobre 2016 sur un système de compensation visant à permettre la réalisation de l'objectif de stabilisation des émissions de l'aviation internationale aux niveaux de 2020. Son adoption est le fruit de plus de 11 mois de négociations entre la Commission européenne, le Parlement européen et les Etats membres. Le Parlement a adopté sa résolution législative sur la proposition du règlement le 12/12/2017.",
+		"recommandations_etats": "Afin de favoriser l'<strong>adoption de standards internationaux,</strong> l'Union européenne propose de <strong>maintenir jusqu'en 2021 la limitation des obligations de mise en conformité </strong>du secteur à son système d'échange de quotas d'émission (SEQE) incombant aux exploitants d'aéronefs aux <strong>seules émissions des vols entre des aérodromes situés dans l'Espace économique européen</strong> (EEE).<br>Le règlement prévoit également pour les Etats <strong>la mise aux enchères de 15 % des quotas</strong> à compter du 1er janvier 2013. Les recettes tirées de la mise en oeuvre aux enchères des quotas devront servir à la lutte contre le changement climatique",
+		"recommandations_commission": "À partir du 1er janvier 2021, il conviendra pour la Commission d'accompagner <strong>la réduction, chaque année, du nombre de quotas</strong> alloués aux exploitants d'aéronefs, sous réserve du réexamen effectué eu égard à la mise en œuvre du régime de l'OACI.<br>Toute allocation de quotas pour des activités aériennes à destination et en provenance d'aérodromes situés dans des pays en dehors de l'Espace économique européen (EEE) après le 31 décembre 2023 devra faire l'objet d'un réexamen."
+	},
+	
+	"A8-0198/2017": {
+		"type": "question",
+		"nom": "Prolongement du Fonds Européen pour les Investissements Stratégiques",
+		"theme": "innovation",
+		"thematique": "Innovation",
+		"wiki": "#wiki/rapports/innovation/fond-investissement",
+		"contexte": "La crise de 2008 en Europe a été l'occasion d'une lourde chute des investissements en Europe. En réponse, la Commission européenne a souhaité mettre en place <strong>un plan de soutien à la croissance par l'investissement dans l'économie réelle pour des projets innovants et d'avenir. Depuis 2015, ce sont 315 milliards d'euros </strong>qui ont été investis dans l'économie. Pour amplifier cette dynamique, la Commission a souhaité <strong>prolonger jusqu'en 2020 ce plan et l'augmenter à 500 milliards d'euros</strong>.",
+		"chronologie": "Saisis en novembre 2016, les eurodéputés de 9 commissions (ECON, BUDG, AGRI, TRAN, ITRE, ENVI, CONT, REGI, EMPL) du Parlement européen ont apporté leurs préconisations au texte de la Commission. Voté en décembre 2017, dans les mêmes termes par le Parlement et le Conseil, le texte a été<strong> publié le 27 décembre 2017 et entrera en vigueur courant 2018</strong>.",
+		"recommandations_etats": "La Commission a notamment proposé d'augmenter le montant du plan Juncker via une <strong>augmentation des contributions des Etats</strong> membres au budget de l'Union ; de soutenir davantage les <strong>projets générateurs de croissance et les projets liés au développement durable</strong> ; de renforcer la gouvernance en proposant de <strong>renforcer les dispositifs relatifs à la bonne gouvernance fiscale dans les Etats</strong>.",
+		"recommandations_commission": "Sur la base de la proposition de la Commission, les eurodéputés ont proposé de rendre la gestion du Fonds plus transparente, plus paritaires, et plus équitable ; de mieux accompagner les Etats membres qui souhaitent bénéficier du fonds ; et de veiller à ce que les projets financés n'aient pas de lien avec des Etats non coorpératifs en matière fiscale, ou en lien avec des risques géopolitiques ou contraires aux valeurs de l'Union."
+	},
+	"A8-0371/2015": {
+		"type": "question",
+		"nom": "Vers un acte sur le marché unique numérique",
+		"theme": "innovation",
+		"thematique": "Innovation",
+		"wiki": "#wiki/rapports/innovation/marche-numerique",
+		"contexte": "Dans le contexte de la <strong>transition numérique</strong>, l'Union doit se doter des moyens pour devenir un acteur incontournable sur le plan technologique, économique et juridique.",
+		"chronologie": "La Commission européenne a lancé la stratégie pour un marché une unique du numérique en 2015 dans lequel plusieurs priorités ont été identifiées et <strong>16 initiatives concrètes</strong> été annoncées. L'objectif fixé est de les adopter avant la fin de la mandature en 2019.",
+		"recommandations_etats": "Le rapport demande aux États de <strong>mettre en œuvre les textes déjà adoptés </strong>en vue d'harmoniser la législation dans les différents domaines de l'économie et de la société numérique.",
+		"recommandations_commission": "Le Parlement européen demande à la Commission <strong>d'identifier les domaines dans lesquels les avancées sont encore trop limitées et de proposer de nouvelles initiatives</strong> législatives concernant de nouveaux sujets."
+	},
+	"A8-0378/2016": {
+		"type": "question",
+		"nom": "Portabilité transfrontière des services de contenu en ligne dans le marché intérieur",
+		"theme": "innovation",
+		"thematique": "Innovation",
+		"wiki": "#wiki/rapports/innovation/portabilite-services",
+		"contexte": "La <strong>liberté de circulation</strong> dans l'Union européenne doit être effective y compris <strong>pour les services en ligne</strong>. Comment faciliter la portabilité des contenus dans l'Union sans entraver les droits d'auteur, et <strong>mettre fin au géoblocage</strong> ?",
+		"chronologie": "Initié en décembre 2015 sur la base d'une proposition de la Commission, le travail du Parlement a commencé dès mars 2016 sous la férule de Jean-Marie Cavada. Après plus d'un an de consultation, le Parlement a voté le texte en juin 2017.",
+		"recommandations_etats": "L'utilisation de services en ligne doit concilier à la fois les intérêts de l'abonné (pouvoir utiliser le service partout en Europe) et des fournisseurs de contenus (pouvoir bénéficier des droits d'auteurs sur l'utilisation du contenu).",
+		"recommandations_commission": "Le Parlement européen recommande ainsi d'avoir une approche du service en fonction du lieu de résidence de l'abonné pour déterminer la portabilité des contenus."
+	},
+	"A7-0402/2013": {
+		"type": "question",
+		"nom": "Règlement général sur la protection des données",
+		"theme": "innovation",
+		"thematique": "Innovation",
+		"wiki": "#wiki/rapports/innovation/protection-donnees",
+		"contexte": "La proposition vise à <strong>adopter un cadre harmonisé</strong> pour remplacer celui de la directive de 1995 qui était à la fois daté et faisait l'objet d'une transposition très variée selon les États membres. Dans le fond, la proposition a également pour but de prendre acte de l'importance de la donnée dans nos sociétés et, dans ce contexte, de <strong>garantir un niveau élevé de protection de la vie privée</strong> des citoyens de l'Union tout en <strong>soutenant l'innovation dans le domaine numérique.</strong>",
+		"chronologie": "Le texte a été proposé en 2012 et a fait l'objet de longues négociations au sein du Parlement et entre les États membres. Le texte final a dû attendre 2016 pour être finalisé. Une période de transition a été prévue au moment de l'adoption de celui-ci pour laisser aux acteurs concernés le temps de se conformer aux nouvelles mesures qui leur seront directement appliquées <strong>à partir du 25 mai 2018</strong>.",
+		"recommandations_etats": "<strong>Mettre en œuvre de manière harmonisée </strong>les nouvelles règles de protection des données et s'assurer que les autorités qui en assurent le respect (ex. CNIL) disposent des moyens suffisants et de l'indépendance nécessaire à la réalisation de cette mission.",
+		"recommandations_commission": "<strong>Renforcer dans sa proposition</strong> les éléments garantissant une meilleure protection de la vie privée et envisager un recours à des méthodes de réglementation qui n'impacteraient pas négativement la compétitivité des entreprises européennes."
+	},
+	
+	"A8-0389/2016": {
+		"type": "question",
+		"nom": "Mise en oeuvre du Programme Erasmus+",
+		"theme": "unite",
+		"thematique": "Unité de l'Europe",
+		"wiki": "#wiki/rapports/unite/erasmus-plus",
+		"contexte": "Le programme Erasmus existe <strong>depuis plus de 30 ans</strong> et est considéré comme un succès de l'Union européenne.<br>Quel bilan tirer du programme Erasmus + mis en place en 2014 et regroupant tous les programmes de mobilité de l'Union européenne ? Quelles sont les pistes d'amélioration et les mesures à renforcer pour l'après 2020 ? ",
+		"chronologie": "Après 15 mois de travail et de consultations, le Parlement a adopté début février 2017, un rapport d'initiative, porté par l'eurodéputé slovène Milan Zver (PPE), afin d'évaluer le programme ERASMUS + depuis sa mise en place en 2014 et faire des recommandations pour l'après 2020.",
+		"recommandations_etats": "Le Parlement européen préconise aux Etats membres et aux agences nationales <strong>d'harmoniser les critères d'accès</strong> au programme. Ils sont appelés <strong>à  simplifier et raccourcir les procédures</strong> et à mieux cibler les jeunes en décrochage scolaire. Ils devraient aussi <strong>favoriser la mobilité des enseignants</strong> et prendre davantage part au <strong>programme pour les jeunes entrepreneurs.</strong>",
+		"recommandations_commission": "La Commission est appelée <strong>à simplifier les procédures </strong>et <strong>alléger la charge administrative</strong>. Elle doit également rendre Erasmus <strong>+ plus accessible </strong>aux personnes issues de milieux défavorisés, aux petites structures et offrir <strong>plus de possibilités de mobilité aux élèves et apprentis</strong>. Elle doit aussi rendre les <strong>programmes sectoriels d'Erasmus + plus visibles</strong>."
+	},
+	"A8-0030/2017": {
+		"type": "question",
+		"nom": "Programme Europe créative",
+		"theme": "unite",
+		"thematique": "Unité de l'Europe",
+		"wiki": "#wiki/rapports/unite/europe-creative",
+		"contexte": "Le programme «Europe créative» a pour objectif de sauvegarder et de <strong>promouvoir la culture et la diversité linguistique européennes en promouvant le patrimoine culturel de l'Europe</strong>, d'une part, et en renforçant la compétitivité des secteurs culturels et créatifs européens, d'autre part.",
+		"chronologie": "Les députés saisis en septembre 2015, en Commission CULT, avaient pour mission de veiller à la bonne mise en oeuvre du programme depuis sa mise en oeuvre en janvier 2014. Après 2 ans d'analyse, ils livrent leur premières recommandations votée le <strong>2 mars 2017</strong>.",
+		"recommandations_etats": "La résolution prie les États membres <strong>d'augmenter le budget </strong>du programme «Europe créative».",
+		"recommandations_commission": "La Commission est appelée à <strong>conserver la structure actuelle du programme «Europe créative»</strong> ; à mettre à profit le système <strong>d'indicateurs</strong> de performance prévu dans le Règlement ; à <strong>simplifier davantage les procédures</strong> de candidature <strong>et les aspects financiers</strong> ; à promouvoir et diffuser encore plus efficacement les <strong>résultats</strong> des projets mis en place ; à faciliter l'accès au programme des <strong>réfugiés</strong> versés dans les arts et à déterminer si la création d'un <strong>observatoire</strong> européen de la culture et de la créativité serait judicieuse."
+	},
+	"A8-0007/2018": {
+		"type": "question",
+		"nom": "Amendement pour la création d'une circonscription unique à l'échelle de l'Union",
+		"theme": "unite",
+		"thematique": "Unité de l'Europe",
+		"wiki": "#wiki/rapports/unite/listes-transnationales",
+		"contexte": "La sortie programmée du Royaume-Uni de l'Union européenne libérera 73 sièges au Parlement européen d'ici à mars 2019.<br>Le rapport vise à proposer une réallocation de ces sièges. Il suggère une redistribution de 27 sièges au profit de pays actuellement sous-représentés dont la France qui gagnerait 5 sièges. Il propose aussi une réallocation d'une partie ou de tous les 46 sièges restants à une circonscription unique européenne.",
+		"chronologie": "Appelés à se prononcer sur la composition du Parlement européen, les eurodéputés de la Commission des Affaires constitutionnelles, ont intégré la proposition visant à établir une circonscription unique dans l'Union européenne (listes transnationales). Initié en septembre 2016, ce rapport a été soumis au vote des députés en plénière le 7/02/2018 après 8 mois de débats.",
+		"recommandations_etats": "Le projet de listes transnationales a d'abord été formalisé dans un rapport de l'eurodéputé britannique Andrew DUFF en 2011 qui propose de soumettre 25 noms sur une circonscription unique de la taille de l'Union. Adopté par les commission des affaires constitutionnelles, le rapport est néanmoins rejeté en séance plénière.",
+		"recommandations_commission": "Le Président de la Commission européenne Jean-Claude JUNCKER dans son discours sur l'état de l'Union de septembre 2017 et le Président français Emmanuel MACRON dans son discours de la Sorbonne ont eux aussi appelé à la constitution de listes transnationales."
+	},
+
+	"RESULTATS": {
+		"type": "resultats"
+	}
+}

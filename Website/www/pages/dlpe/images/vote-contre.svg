@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="538px" height="538px" viewBox="0 0 538 538" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>contre</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-2632.000000, -879.000000)">
+        <g id="Group-2" transform="translate(454.000000, 215.000000)" fill-rule="nonzero">
+            <g id="contre" transform="translate(2191.000000, 677.000000)">
+                <circle id="Oval" stroke="#011B3E" stroke-width="25" fill="#D0021B" cx="256" cy="256" r="256"></circle>
+                <g id="Group" transform="translate(128.000000, 160.000000)" fill="#FFFFFF">
+                    <path d="M229.824,234.176 C225.728,234.176 221.632,232.608 218.496,229.504 C170.112,181.12 85.824,181.12 37.472,229.504 C31.232,235.744 21.088,235.744 14.848,229.504 C8.608,223.264 8.608,213.12 14.848,206.88 C45.088,176.672 85.248,160 128,160 C170.752,160 210.912,176.672 241.12,206.88 C247.36,213.12 247.36,223.264 241.12,229.504 C238.016,232.64 233.92,234.176 229.824,234.176 Z" id="Shape"></path>
+                    <circle id="Oval" cx="32" cy="32" r="32"></circle>
+                    <circle id="Oval" cx="224" cy="32" r="32"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
