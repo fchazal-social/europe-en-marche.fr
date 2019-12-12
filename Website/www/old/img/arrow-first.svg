@@ -1,4 +1,0 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="10" height="20" viewBox="0, 0, 10, 20"  preserveAspectRatio="none">
-  <path id="arrow" d="M0,10 L10,10 L10,12 L5,20 L0,12 L0,10 z" fill="rgba(255,255,255,0.5)" />
-  <path id="arrow" d="M0,0 L10,0 L10,10 L5,20 L0,10 z" fill="#003377" />
-</svg>
