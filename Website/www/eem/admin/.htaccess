@@ -1,5 +1,0 @@
-AuthType Basic
-AuthName "Administration Area"
-AuthUserFile /home/chazal/eem/admin/.htpasswd
-Require valid-user
-#admin / EuropeEnMarche2017
