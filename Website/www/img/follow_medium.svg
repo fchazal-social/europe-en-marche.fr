@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="345px" height="67px" viewBox="0 0 345 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>followus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SITE-–-Accueil" transform="translate(-347.000000, -1361.000000)">
+            <g id="medium" transform="translate(112.000000, 704.000000)">
+                <g id="followus" transform="translate(218.000000, 657.000000)">
+                    <text id="SUR-MEDIUM" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#FFCC00">
+                        <tspan x="249.4895" y="38">SUR MEDIUM</tspan>
+                    </text>
+                    <text id="SUIVEZ-NOUS" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#FFCC00">
+                        <tspan x="17.75" y="38">SUIVEZ-NOUS</tspan>
+                    </text>
+                    <g id="006-medium" transform="translate(154.000000, 0.000000)" fill-rule="nonzero">
+                        <path d="M76.1240909,66.868053 L52.1803708,55.2657787 L52.0000101,2.67113835 C51.9958616,1.44334864 53.2674736,0.634313672 54.3652439,1.16636916 L77.0650086,12.1690854 C77.636513,12.4460649 78,13.0288966 78,13.66808 L78,65.6790922 C77.9998025,66.6510094 76.9929039,67.2891972 76.1240909,66.868053 Z" id="Shape" fill="#333D33"></path>
+                        <path d="M51.9011783,55 L26,42.3861444 L50.9352645,0.803538885 C51.3757702,0.068970586 52.2948888,-0.207217495 53.0596034,0.165166435 L76.065015,11.3704829 C76.9444467,11.7988644 77.2664837,12.9026167 76.7580561,13.7461803 L51.9011783,55 Z" id="Shape" fill="#696325"></path>
+                        <path d="M52,55 L26.0136424,42.3233914 L2.19466346,2.97067359 C1.53103868,1.87429326 2.68574579,0.576122677 3.82856709,1.1336587 L26.0136424,11.9573745 L52,55 Z" id="Shape" fill="#AD9315"></path>
+                        <path d="M24.1247456,66.8665219 L0.741333738,55.396921 C0.288120918,55.1745389 0,54.7070127 0,54.194164 L0,1.29400402 C0,0.342031179 0.97495063,-0.283418604 1.81620842,0.129317823 L26,11.9915118 L26,65.6637649 C26,66.6469598 24.9932554,67.2925529 24.1247456,66.8665219 Z" id="Shape" fill="#FFCC00"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
